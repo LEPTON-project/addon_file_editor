@@ -14,7 +14,7 @@ Addon_File_Editor enables you to add module and template files via LEPTON Backen
 
 #### First Steps
 
-Call Add_on_fileditor via backend admintools.
+Call Add_on_file_ditor via backend admintools.
 
 [1]: http://lepton-cms.org "LEPTON CMS"
 [2]: http://www.lepton-cms.com/lepador/modules/addon_file_editor.php

@@ -1,7 +1,7 @@
 ### addon_file_editor
 ============
 
-Addon_File_Editor enables you to add module and template files via LEPTON Backend.
+Addon_File_Editor enables you to edit module-, language- and template-files via LEPTON Backend.
 
 #### Requirements
 

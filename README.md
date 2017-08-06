@@ -9,7 +9,7 @@ Addon_File_Editor enables you to edit module-, language- and template-files via 
 
 #### Installation
 
-* download latest [addon_file_editor.zip] [2] installation archive
+* download latest [addon_file_editor.zip][2] installation archive
 * in CMS backend select the file from "Add-ons" -> "Modules" -> "Install module"
 
 #### First Steps
